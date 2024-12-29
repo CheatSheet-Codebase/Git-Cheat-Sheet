@@ -58,22 +58,6 @@
 
 ---
 
-## Setting Up Git Account
-1. Set username:
-    ```bash
-    git config --global user.name "Your Name"
-    ```
-2. Set email:
-    ```bash
-    git config --global user.email "you@example.com"
-    ```
-3. Verify config:
-    ```bash
-    cat .git/config
-    ```
-
----
-
 ## Branch Management
 
 - `git branch` - List branches.
